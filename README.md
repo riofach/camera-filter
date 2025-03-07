@@ -1,4 +1,4 @@
-# Dokumentasi `Camera Filter`
+# Dokumentasi `Camera Filter` 1122140093 - Fachrio Raditya
 
 ## 1. `takepicture_screen.dart`
 
@@ -107,3 +107,5 @@ File ini berisi kode untuk delegate aliran carousel yang mengelola tata letak it
 ### Metode `shouldRepaint()`
 
 - **Deskripsi**: Menentukan apakah delegate perlu di-repaint berdasarkan perubahan offset viewport.
+
+# Sekian Terimakasih 1122140093 - Fachrio Raditya
